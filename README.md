@@ -26,5 +26,8 @@ Backbone's pre-training address (https://drive.google.com/file/d/18AZSJkgAe3SUh0
 MCRUNet architecture overview.
 ![image](https://github.com/wrc990616/MFMSNet/blob/main/pic/figure1.png)
 
+### result
+![image](https://github.com/wrc990616/MFMSNet/blob/main/pic/fig5.png)
+
 ## Acknowledgments
 Thanks to the open access BUSI、BUI and DDTI dataset for providing ultrasound data and annotation of breast nodules.
