@@ -1,4 +1,5 @@
 ## MFMSNet: A Multi-frequency and Multi-scale Interactive CNN-Transformer Hybrid Network for Breast Ultrasound Image Segmentation
+### 
 
 ### preparation of environment
 We have tested our code in following environment：
@@ -21,3 +22,9 @@ analysis, vol. 9287. SPIE, 2015, pp. 188–193.
 My model is in `Oct_ResNet/ocytoc.py`, and model creation can be done using `oct_resnet50_fusion(pretrained=True,num_classes=1)`
 
 Backbone's pre-training address (https://drive.google.com/file/d/18AZSJkgAe3SUh0AAAA7PPDSd8E30_Tsb/view?usp=sharing)
+
+MCRUNet architecture overview.
+![image]()
+
+## Acknowledgments
+Thanks to the open access BUSI、BUI and DDTI dataset for providing ultrasound data and annotation of breast nodules.
