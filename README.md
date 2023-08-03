@@ -24,6 +24,7 @@ My model is in `Oct_ResNet/ocytoc.py`, and model creation can be done using `oct
 Backbone's pre-training address (https://drive.google.com/file/d/18AZSJkgAe3SUh0AAAA7PPDSd8E30_Tsb/view?usp=sharing)
 
 MCRUNet architecture overview.
+
 ![image]()
 
 ## Acknowledgments
