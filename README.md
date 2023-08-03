@@ -24,7 +24,7 @@ My model is in `Oct_ResNet/ocytoc.py`, and model creation can be done using `oct
 Backbone's pre-training address (https://drive.google.com/file/d/18AZSJkgAe3SUh0AAAA7PPDSd8E30_Tsb/view?usp=sharing)
 
 MCRUNet architecture overview.
-![image](https://github.com/wrc990616/MFMSNet/blob/main/pic/figure1.pdf)
+![image](https://github.com/wrc990616/MFMSNet/blob/main/pic/figure1.png)
 
 ## Acknowledgments
 Thanks to the open access BUSI、BUI and DDTI dataset for providing ultrasound data and annotation of breast nodules.
