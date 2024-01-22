@@ -56,8 +56,8 @@ if __name__=="__main__":
     #         val_lab.append(df['target'][index])
     #     print(val_img)
     #     print(val_lab)
-    img_root = 'DDTI/images/'
-    label_root = 'DDTI/labels/'
+    img_root = 'BUSI/images/'
+    label_root = 'BUSI/labels/'
 
     train_img_root = 'five_folds/fold{}/train/images/'
     train_lab_root = 'five_folds/fold{}/train/labels/'
